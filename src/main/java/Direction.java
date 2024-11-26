@@ -1,4 +1,4 @@
-package org.psnbtech;
+package main.java;
 
 /**
  * The {@code Direction} enum is used to determine which way the Snake is moving.
