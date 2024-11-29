@@ -1,4 +1,3 @@
-package main.java;
 
 /**
  * The {@code TileType} class represents the different
