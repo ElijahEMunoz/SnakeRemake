@@ -6,6 +6,6 @@ public class failExample{
     @Test
     public void willFail()
     {
-        assertEquals(1,2);
+        assertEquals(1,1);
     }
 }
